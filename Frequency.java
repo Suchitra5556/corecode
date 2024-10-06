@@ -11,7 +11,7 @@ public class Frequency {
 		
 		Map<String, Integer> map = new HashMap<>();
 		
-		
+		System.out.println("Hello");
 
 	}
 
